@@ -8,7 +8,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlearning&count_private=true&hide=html,css)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jimlearning&repo=jimlearning.github.io)](https://github.com/jimlearning/jimlearning.github.io)
 
 <!--
 **jimlearning/jimlearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
