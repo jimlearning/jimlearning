@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Jim Learning.
+
+- 🔭 I’m currently working on my personal projects, eg. naming.
+- 🌱 I’m currently learning python pandas, scikit-learn, tensorflow, machine learning & deep learning.
+- 🙃 I'm having a difficult climb, but I believe I'll climb to the top this month.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jimlearning&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlearning)
 
 <!--
 **jimlearning/jimlearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
